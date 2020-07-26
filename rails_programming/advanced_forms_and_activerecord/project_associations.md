@@ -64,6 +64,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [bikmazefe's Solution](https://github.com/bikmazefe/event-box) - [View in Browser](https://shielded-retreat-43022.herokuapp.com/)
 - [pudu87's Solution](https://github.com/pudu87/private-events) 
 - [irlgabriel's Solution](https://github.com/irlgabriel/private-events) 
 - [Christian Páez's Solution](https://github.com/christian1894/odin-project-private-events) - [View in Browser](https://ruby-on-rails-private-events.herokuapp.com)
